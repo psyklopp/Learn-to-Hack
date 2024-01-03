@@ -10,6 +10,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
 1.  [VirusTotal](https://www.virustotal.com/gui/home/upload)
+2.  [OPSWAT - MetaDefender](https://metadefender.opswat.com/)
 
 ## 🗃️ Sandbox - Malware research
 
