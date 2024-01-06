@@ -11,6 +11,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 ## 🗞️ Certifications
 
 1.  [Security Blue Team](https://www.securityblue.team/)
+2.  [TCM Security](https://certifications.tcm-sec.com/)
 
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
