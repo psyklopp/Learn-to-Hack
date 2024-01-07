@@ -12,6 +12,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 1.  [Security Blue Team](https://www.securityblue.team/)
 2.  [TCM Security](https://certifications.tcm-sec.com/)
+3.  [INE Security](https://security.ine.com/)
 
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
