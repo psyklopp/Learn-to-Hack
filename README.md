@@ -7,6 +7,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 1.  [TryHackMe](https://tryhackme.com/signup?referrer=655bc3c21f4d8e155c0ec8c3)
 2.  [HackTheBox](https://www.hackthebox.com/)
 3.  [CyberDefenders](https://cyberdefenders.org/)
+4.  [PentesterAcademy](https://www.pentesteracademy.com/)
 
 ## 🗞️ Certifications
 
