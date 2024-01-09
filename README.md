@@ -15,6 +15,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 2.  [TCM Security](https://certifications.tcm-sec.com/)
 3.  [INE Security](https://security.ine.com/)
 
+## 😼 Vulnerable machines 
+
+1.  [Exploit.Education](https://exploit.education)
+
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
 1.  [VirusTotal](https://www.virustotal.com/gui/home/upload)
