@@ -9,11 +9,15 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 3.  [CyberDefenders](https://cyberdefenders.org/)
 4.  [PentesterAcademy](https://www.pentesteracademy.com/)
 
-## 🗞️ Certifications
+## 🗞️ Companies - offering certifications
 
 1.  [Security Blue Team](https://www.securityblue.team/)
 2.  [TCM Security](https://certifications.tcm-sec.com/)
 3.  [INE Security](https://security.ine.com/)
+
+## 📋 Certifications and cost
+
+1.  [Proofpoint Certified Identity Threat Specialist](https://www.proofpoint.com/us/resources/webinars/cybersecurity-leadership-certification) - FREE - enroll in Mar 2024
 
 ## 😼 Vulnerable machines 
 
