@@ -8,6 +8,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 2.  [HackTheBox](https://www.hackthebox.com/)
 3.  [CyberDefenders](https://cyberdefenders.org/)
 4.  [PentesterAcademy](https://www.pentesteracademy.com/)
+5.  [PentesterLab](https://pentesterlab.com/)
 
 ## 🗞️ Companies - offering certifications
 
