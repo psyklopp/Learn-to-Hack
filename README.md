@@ -9,6 +9,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 3.  [CyberDefenders](https://cyberdefenders.org/)
 4.  [PentesterAcademy](https://www.pentesteracademy.com/)
 5.  [PentesterLab](https://pentesterlab.com/)
+6.  [PortSwigger](https://portswigger.net/web-security)
 
 ## 🗞️ Companies - offering certifications
 
