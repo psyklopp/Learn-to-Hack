@@ -1,6 +1,6 @@
 # Learn to Hack 🥷
 
-I come across a lot of resources when I am reading papers/blogs/resources for my studies. I will try to my best to organize them together here
+I come across a lot of resources when I am reading papers/blogs/resources for my studies. I will try to my best to organize them together here. It's not only about penetration testing, blue-teaming or red-teaming, I have also included links to resources where you can learn about cryptography and the maths behind it. 
 
 ## 💻 Platforms - Hands-on labs, exercises
 
@@ -47,3 +47,4 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 1.  Perfect Secrecy - [IISc Bangalore, IN](https://www.csa.iisc.ac.in/~arpita/Cryptography16/Lecture3_Atlanta.pdf)
 2.  Hash Functions, Merkle-Damgaard, Random Oracle - [Northeastern University](https://www.khoury.northeastern.edu/home/wichs/class/crypto-fall15/lecture11.pdf)
+3.  Lattice Based Cryptography for Beginners - [Notes](https://eprint.iacr.org/2015/938.pdf)
