@@ -24,6 +24,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 ## 😼 Vulnerable machines 
 
 1.  [Exploit.Education](https://exploit.education)
+2.  [HackingHub](https://www.hackinghub.io/)
 
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
