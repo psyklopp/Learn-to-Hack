@@ -11,6 +11,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 5.  [PentesterLab](https://pentesterlab.com/)
 6.  [PortSwigger](https://portswigger.net/web-security)
 7.  [Cybrary](https://www.cybrary.it/)
+8.  [Qualys](https://www.qualys.com/training/)
 
 ## 🗞️ Companies - offering certifications
 
