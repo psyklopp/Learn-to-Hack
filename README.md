@@ -25,6 +25,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 1.  [Proofpoint Certified Identity Threat Specialist](https://www.proofpoint.com/us/resources/webinars/cybersecurity-leadership-certification) - FREE - enroll in Mar 2024
 2.  [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/) - USD 99.00
 
+## 🪟 Windows OS
+
+1. [Living Off The Land binaries](https://lolbas-project.github.io/)
+
 ## 😼 Vulnerable machines 
 
 1.  [Exploit.Education](https://exploit.education)
