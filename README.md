@@ -47,9 +47,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 1.  [Any.RUN](https://any.run/)
 
-## 🧭 Cybersecurity Frameworks
+## 🧭 Cybersecurity Frameworks and Resources
 
 1.  [MITRE ATT&CK](https://attack.mitre.org/)
+2.  [OWASP](https://owasp.org/)
 
 ## 🖋️ Crontab 
 
