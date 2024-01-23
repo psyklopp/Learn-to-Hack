@@ -34,6 +34,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 1.  [Exploit.Education](https://exploit.education)
 2.  [HackingHub](https://www.hackinghub.io/)
 
+## 🔑 Vulnerability database
+
+1.  [VulDB](https://vuldb.com/)
+
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
 1.  [VirusTotal](https://www.virustotal.com/gui/home/upload)
