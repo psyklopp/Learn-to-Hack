@@ -43,9 +43,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 1.  [VirusTotal](https://www.virustotal.com/gui/home/upload)
 2.  [OPSWAT - MetaDefender](https://metadefender.opswat.com/)
 
-## 🗃️ Sandbox - Malware research
+## 🗃️ Malware research
 
-1.  [Any.RUN](https://any.run/)
+1.  [Any.RUN](https://any.run/) - Sandbox
+2.  [MalAPI](https://malapi.io/) - Windows APIs
 
 ## 🧭 Cybersecurity Frameworks and Resources
 
