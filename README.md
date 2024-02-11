@@ -29,6 +29,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 1. [Living Off The Land binaries](https://lolbas-project.github.io/)
 
+## 🐧Linux OS
+
+1. [GTFOBins](https://gtfobins.github.io/)
+
 ## 😼 Vulnerable machines 
 
 1.  [Exploit.Education](https://exploit.education)
