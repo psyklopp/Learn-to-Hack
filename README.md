@@ -12,6 +12,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 6.  [PortSwigger](https://portswigger.net/web-security)
 7.  [Cybrary](https://www.cybrary.it/)
 8.  [Qualys](https://www.qualys.com/training/)
+9.  [Cisco Networking Academy](https://www.netacad.com/)
 
 ## 🗞️ Companies - offering certifications
 
