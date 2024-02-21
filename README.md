@@ -13,6 +13,7 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 7.  [Cybrary](https://www.cybrary.it/)
 8.  [Qualys](https://www.qualys.com/training/)
 9.  [Cisco Networking Academy](https://www.netacad.com/)
+10. [Pwned Labs](https://pwnedlabs.io/)
 
 ## 🗞️ Companies - offering certifications
 
