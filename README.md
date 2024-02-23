@@ -45,6 +45,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 1.  [VulDB](https://vuldb.com/)
 
+## 🐛 Exploit Database and Development
+
+1. [Exploit Database](https://www.exploit-db.com/)
+
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
 1.  [VirusTotal](https://www.virustotal.com/gui/home/upload)
