@@ -44,6 +44,8 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 ## 🔑 Vulnerability database
 
 1.  [VulDB](https://vuldb.com/)
+2.  [NVD - National Vulnerability Database](https://nvd.nist.gov/vuln/search)
+3.  [CVE - MITRE](https://cve.mitre.org/)
 
 ## 🐛 Exploit Database and Development
 
