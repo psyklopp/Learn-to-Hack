@@ -1,6 +1,10 @@
 # Learn to Hack 🥷
 
-I come across a lot of resources when I am reading papers/blogs/resources for my studies. I will try to my best to organize them together here. It's not only about penetration testing, blue-teaming or red-teaming, I have also included links to resources where you can learn about cryptography and the maths behind it. 
+I come across a lot of resources when I am reading papers/blogs/resources for my studies. I will try to my best to organize them together here. It's not only about penetration testing, blue-teaming or red-teaming, I have also included links to resources where you can learn about cryptography and the maths behind it.
+
+## ⛳ Instructor-Led\Self-paced training
+
+1. [Antisyphon Training](https://www.antisyphontraining.com/)
 
 ## 💻 Platforms - Hands-on labs, exercises
 
