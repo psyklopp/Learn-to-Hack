@@ -1,4 +1,4 @@
-# Learn to Hack | Hack to Learn 🥷
+# Learn to Hack || Hack to Learn 🥷
 
 I come across a lot of resources when I am reading papers/blogs/resources for my studies. I will try to my best to organize them together here. It's not only about penetration testing, blue-teaming or red-teaming, I have also included links to resources where you can learn about cryptography and the maths behind it.
 
