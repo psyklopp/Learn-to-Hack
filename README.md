@@ -21,10 +21,11 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 ## 🗞️ Companies - offering certifications
 
-1.  [Security Blue Team](https://www.securityblue.team/)
-2.  [TCM Security](https://certifications.tcm-sec.com/)
-3.  [INE Security](https://security.ine.com/)
-4.  [The SecOps Group](https://secops.group/)
+1.  [OffSec](https://www.offsec.com/courses/) 🍯
+2.  [Security Blue Team](https://www.securityblue.team/)
+3.  [TCM Security](https://certifications.tcm-sec.com/)
+4.  [INE Security](https://security.ine.com/)
+5.  [The SecOps Group](https://secops.group/)
 
 ## 📋 Certifications and cost
 
