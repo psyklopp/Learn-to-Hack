@@ -13,6 +13,8 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 - Source code available: https://github.com/visible-cx/databroker_remover
 </details>
 
+2. [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tool to show the data a website can use to fingerprint your browser.
+
 ## ⛳ Instructor-Led\Self-paced training
 
 1. [Antisyphon Training](https://www.antisyphontraining.com/)
