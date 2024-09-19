@@ -2,6 +2,17 @@
 
 I come across a lot of resources when I am reading papers/blogs/resources for my studies. I will try to my best to organize them together here. It's not only about penetration testing, blue-teaming or red-teaming, I have also included links to resources where you can learn about cryptography and the maths behind it.
 
+## 👓 Protect your Privacy
+
+1. [Data Broker Remover Tool](https://remover.visiblelabs.org/) - Open source tool to generate and send emails to data brokers to remove your details
+<details>
+<summary>
+   More...
+</summary>
+ 
+- Source code available: https://github.com/visible-cx/databroker_remover
+</details>
+
 ## ⛳ Instructor-Led\Self-paced training
 
 1. [Antisyphon Training](https://www.antisyphontraining.com/)
@@ -59,7 +70,8 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 ## 🔎 Analyse suspicious files, domains, IPs and URLs
 
 1.  [VirusTotal](https://www.virustotal.com/gui/home/upload)
-2.  [OPSWAT - MetaDefender](https://metadefender.opswat.com/)
+2.  [urlscan.io](https://urlscan.io/)
+3.  [OPSWAT - MetaDefender](https://metadefender.opswat.com/)
 
 ## 🗃️ Malware research
 
