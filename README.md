@@ -75,6 +75,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 2.  [urlscan.io](https://urlscan.io/)
 3.  [OPSWAT - MetaDefender](https://metadefender.opswat.com/)
 
+## 🐡 Phishing Database
+
+1. [PhishTank](https://phishtank.org/)
+
 ## 🗃️ Malware research
 
 1.  [Any.RUN](https://any.run/) - Sandbox
