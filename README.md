@@ -56,8 +56,9 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 ## 😼 Vulnerable machines 
 
-1.  [Exploit.Education](https://exploit.education)
-2.  [HackingHub](https://www.hackinghub.io/)
+1. [VulnHub](https://vulnhub.com/)
+2.  [Exploit.Education](https://exploit.education)
+3.  [HackingHub](https://www.hackinghub.io/)
 
 ## 🔑 Vulnerability database
 
