@@ -15,6 +15,11 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 2. [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tool to show the data a website can use to fingerprint your browser.
 
+## 🗺️ Cybersecurity Roadmap
+
+1. [Cybersecurity - Roadmap.sh](https://roadmap.sh/cyber-security) - Don't know where to start? Go here.
+2. [Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - With prices and levels.
+
 ## ⛳ Instructor-Led\Self-paced training
 
 1. [Antisyphon Training](https://www.antisyphontraining.com/)
