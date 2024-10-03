@@ -13,7 +13,9 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 - Source code available: https://github.com/visible-cx/databroker_remover
 </details>
 
-2. [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tool to show the data a website can use to fingerprint your browser.
+2. [Privacy Rights](https://privacyrights.org/data-brokers) - View data brokers database.
+
+3. [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tool to show the data a website can use to fingerprint your browser.
 
 ## 🗺️ Cybersecurity Roadmap
 
