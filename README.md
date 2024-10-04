@@ -107,6 +107,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 1. [ExplainShell](https://explainshell.com/)
 
+## 🧰 Misc. Tools
+
+1. [CyberChef](https://gchq.github.io/CyberChef/) - CTF Tool💡 Explore data formats, useful for analysis and decoding of data.  
+
 ## 📔 Theory - Lecture notes
 
 1.  Perfect Secrecy - [IISc Bangalore, IN](https://www.csa.iisc.ac.in/~arpita/Cryptography16/Lecture3_Atlanta.pdf)
