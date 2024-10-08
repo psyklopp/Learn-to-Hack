@@ -49,9 +49,8 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 ## 📋 Certifications and cost
 
-1.  [Proofpoint Certified Identity Threat Specialist](https://www.proofpoint.com/us/resources/webinars/cybersecurity-leadership-certification) - FREE - enroll in Mar 2024
-2.  [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/) - USD 99.00
-3.  [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) - FREE
+1.  [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
+2.  [Canonical Ubuntu Essentials](https://ubuntu.com/credentials)
 
 ## 🔪 Research and Reconnaissance
 
