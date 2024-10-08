@@ -53,9 +53,10 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 2.  [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/) - USD 99.00
 3.  [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) - FREE
 
-## 🔪 Scan, Search, Hunt for Threat
+## 🔪 Research and Reconnaissance
 
 1. [Censys](https://search.censys.io/)
+2. [DNSDumpster](https://dnsdumpster.com/) - DNS lookup and more
 
 ## 🪟 Windows OS
 
