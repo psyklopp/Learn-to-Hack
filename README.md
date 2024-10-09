@@ -113,7 +113,8 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 
 ## 🧰 Misc. Tools
 
-1. [CyberChef](https://gchq.github.io/CyberChef/) - CTF Tool💡 Explore data formats, useful for analysis and decoding of data.  
+1. [CyberChef](https://gchq.github.io/CyberChef/) - CTF Tool💡 Explore data formats, useful for analysis and decoding of data.
+2. [Living Off Trusted Sites (LOTS) Project](https://lots-project.com/) - Legitimate domains you can use when conducting phishing, C&C, exfiltration and downloading tools to evade detection.
 
 ## 📔 Theory - Lecture notes
 
