@@ -22,6 +22,11 @@ I come across a lot of resources when I am reading papers/blogs/resources for my
 1. [Cybersecurity - Roadmap.sh](https://roadmap.sh/cyber-security) - Don't know where to start? Go here.
 2. [Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) - With prices and levels.
 
+## 🚩 Capture the Flag (CTF) and Wargames
+
+1. [try to decrypt!](https://www.trytodecrypt.com/index.php)
+2. [OverTheWire](https://overthewire.org/wargames/)
+
 ## ⛳ Instructor-Led\Self-paced training
 
 1. [Antisyphon Training](https://www.antisyphontraining.com/)
